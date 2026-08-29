@@ -1,0 +1,18 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Exclude large raw interim files if needed (keeping data/marts/ for reproducibility)
+data/*.csv
+!data/marts/*.csv

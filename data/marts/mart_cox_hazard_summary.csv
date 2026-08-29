@@ -1,0 +1,7 @@
+covariate,coef,hazard_ratio_exp_coef,se(coef),p,-log2(p)
+m0_gross_order_value,0.0003,1.0003,0.0004,0.4681,1.0952
+m0_discount_share,-0.1372,0.8718,0.1356,0.3113,1.6836
+acquisition_channel_id_direct,0.0203,1.0206,0.0435,0.6401,0.6437
+acquisition_channel_id_google_ads,0.016,1.0161,0.0335,0.6336,0.6584
+acquisition_channel_id_meta_ads,0.0117,1.0118,0.0298,0.6938,0.5273
+acquisition_channel_id_organic_search,0.0026,1.0026,0.0389,0.947,0.0786
